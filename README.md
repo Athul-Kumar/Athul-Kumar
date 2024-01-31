@@ -1,6 +1,6 @@
 ### Hey, I'm Athul 👋🏽  
 
-I'm a 26-year-old developer based in India, and I'm passionate about crafting digital experiences. 
+I'm a Frontend developer based in India, and I'm passionate about crafting digital experiences. 
 
 
 ## 📦 Toolbox
