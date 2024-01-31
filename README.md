@@ -13,7 +13,7 @@ I'm a Frontend developer based in India, and I'm passionate about crafting digit
 
 **Testing:** `Jest` `React Testing Library`  `Postman` 
 
-**Others:** `Redux-Toolkit` `Zustand` `GSAP`
+**Others:** `Redux-Toolkit` `Zustand` `GSAP` `Parcel` `Figma`
  
 ## ✨ Fun Facts 
 
