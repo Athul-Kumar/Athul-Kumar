@@ -5,7 +5,7 @@ I'm a Frontend developer based in India, and I'm passionate about crafting digit
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`  `Framer-Motion`
+**Frontend Development:** `React`  `Tailwind`  `Framer-Motion`
  
 **Version Control:** `Git` 
 
